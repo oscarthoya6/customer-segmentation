@@ -1,4 +1,3 @@
-# customer-segmentation
 
 # CUSTOMER-SEGMENTATION
 KMeans is a popular clustering algorithm used for partitioning data into distinct groups, called clusters, based on their similarity. How it works:
